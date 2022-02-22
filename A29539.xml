@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. J. Briscoe, a director in the national land-bank, his defence of Dr. Hugh Chamberlen's bank or office of land credit. In a letter to the doctor</title>
+            <author>Briscoe, John, fl. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29539</idno>
+            <idno type="STC">Wing B4743</idno>
+            <idno type="STC">ESTC R214759</idno>
+            <idno type="EEBO-CITATION">99826834</idno>
+            <idno type="PROQUEST">99826834</idno>
+            <idno type="VID">31243</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29539)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31243)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1844:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. J. Briscoe, a director in the national land-bank, his defence of Dr. Hugh Chamberlen's bank or office of land credit. In a letter to the doctor</title>
+                  <author>Briscoe, John, fl. 1695.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by T. Sowle in White-Hart Court in Grace-Church street,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Briscoe.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Goldsmiths' Library, University of London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chamberlen, Hugh --  Early works to 1800.</term>
+               <term>Bank of England --  Early works to 1800.</term>
+               <term>Finance --  England --  Early works to 1800.</term>
+               <term>Banks and banking --  England --  Early works to 1800.</term>
+               <term>Land banks --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title">
+            <pb facs="tcp:31243:1"/>
+            <p>Mr. <hi>J. BRISCOE,</hi> A Director in the National Land-Bank, his Defence of Dr. <hi>Hugh Chamberlen</hi>'s Bank or Office of Land-Credit. In a LETTER to the DOCTOR.</p>
+            <div type="to_the_reader">
+               <head>TO THE READER.</head>
+               <p>
+                  <hi>HAving written ſo much in Defence of the Office of Land-Credit, which hath not yet been Anſwered, much leſs Confuted; I am, I confeſs, very unwilling to trouble myſelf or others any farther in this matter: But (having by me a Letter in favour of my ſaid Office, wherein the length of Time, and Reaſonableneſs of it, are ſufficientl juſtified, writ<g ref="char:EOLhyphen"/>ten ſometime ſince by my ſaid old Friend Mr.</hi> J.B. <hi>upon occaſion of ſome Objections againſt my Propoſal for</hi> Scotland, <hi>(of the ſame Nature and length of Time) ſent me by ſome anony<g ref="char:EOLhyphen"/>mous, baſhful, Scotch Author, as unwilling to ſtand the ſhock of the Conteſt, as ſeems to be a late Nameleſs Author of a Bank-Dialogue betwixt Dr.</hi> H. C. <hi>and a Country Gentleman) I ſup<g ref="char:EOLhyphen"/>poſe Publiſhing the ſame will, by reaſon of the Great Reputation M.</hi> Briſcoe <hi>hath among ſome of our Senators, as well as our Citizens, more ſtrongly recommend this Bank or Office of Land-Credit, and give more Satisfaction to the World, than anything I can ſay or write: Which Juſtice of Publiſhing the ſame, I thought was owing to Mr.</hi> Briſcoe, <hi>and for which I hope he will not grudge me his Thanks: For, tho', by his ſetting up an <g ref="char:V">Ʋ</g>nderta<g ref="char:EOLhyphen"/>king of Leſs Advantage to the Subſcribers, he may ſeem to have changed his Mind, yet he, who beſt underſtands his own meaning, hath declared to a Friend, That he was ſure there lay no good Objection againſt my <g ref="char:V">Ʋ</g>nderta<g ref="char:EOLhyphen"/>king; but, if the People could not ſee their own great Advantage, perhaps it might be prudent to treat them ac<g ref="char:EOLhyphen"/>cording to their <g ref="char:V">Ʋ</g>nderſtandings, or indeed their Wilfulneſs; and ſo much the rather, becauſe ſuch a ſmall Eſſay might poſsibly by degrees introduce the Greater: So that he thought the Nation fitter to be fed at firſt with Milk, thvn with ſtrong Meat. Farewel.</hi>
+               </p>
+               <closer>
+                  <signed>H: CHAMBERLEN.</signed>
+               </closer>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="letter_proper">
+            <head>The Letter follows, which was ſent me to be Publiſhed, as I ſaw occaſion.</head>
+            <opener>
+               <salute>SIR,</salute>
+               <dateline>
+                  <hi>London</hi> 
+                  <date>the 23th of <hi>October,</hi> 1693.</date>
+               </dateline>
+            </opener>
+            <p>I Received a Paper from you, which I have returned you again here incloſed, intituled, <hi>Obſerva<g ref="char:EOLhyphen"/>tions upon Dr. Chamberlen's Project of Trade;</hi> upon which you deſire my Remarks: But upon Read<g ref="char:EOLhyphen"/>ing the Paper, I find the Objections ſo weak, and ſo ill digeſted, that I thought it not worth my while to ſpend either Time or Paper upon them. However, to gratifie your Requeſt, I have ſent you my Obſervations upon them, and I think have fully Anſwered them; only I have not done it in order, as they ſtand in his Paper, but as I found it was proper for the fully ſtating and clearing of the Buſineſs.</p>
+            <p>I doubt the Gentleman, who ſent you this Paper, hath not read your printed Paper; if he hath,
+<note place="margin">
+                  <hi>Mr. J.</hi> B's Com<g ref="char:EOLhyphen"/>mendations of the Deſign, tho 'twas for 150 years.</note> ſurely he doth not underſtand it, elſe he would not have laid down ſo falſe a Poſition, and from thence have drawn as erronious a Concluſion: I do profeſs, <hi>without Flattery, the Deſign ſeems to me ſo well laid,</hi> that I did not believe that any Perſon born beyond the River <hi>Tweed,</hi> (as I find by the Gentlemans ſtile he was) could have objected againſt it. Hath a Man a clear Eſtate in Land?
+<note place="margin">Further Com<g ref="char:EOLhyphen"/>mendations.</note> 
+               <hi>His Eſtate will certainly be improv'd by this Project,</hi> and he ſhall have undoubted Security to <hi>have</hi>
+               <note n="*" place="margin">This miſtaken for 40, as in the Printed Propoſal.</note> 30 <hi>years</hi> purchaſe paid him for his Eſtate, the ſame day the Act paſſes. <hi>Is a mans Eſtate incumbred, and without hope of Redemption? Here is a fair Opportunity to clear his Eſtate. Hath a Man Money and no Land? He will have an Opportunity (which he ne<g ref="char:EOLhyphen"/>ver yet had) to improve his Money in the National Trade</hi> to be eſtabliſhed,
+<note place="margin">Commendations continued.</note> altho he hath no Skill or Un<g ref="char:EOLhyphen"/>derſtanding in Trade, as in our <hi>Eaſt-India</hi> and <hi>African</hi> Companies, where a Widow or Orphan may have as great an Intereſt in the Trade, as the Skilfulleſt Merchant.
+<note place="margin">The General Be<g ref="char:EOLhyphen"/>nefit by it.</note> Hath a Man <hi>neither Land nor Mo<g ref="char:EOLhyphen"/>ney? If he hath Credit, he will find (if the Project ſucceeds) ſuch Plenty of Money, that he cannot fail of Money upon eaſie Intereſt to raiſe his Fortunes.</hi> But if a Man hath neither Land, Money, nor Credit, he may indeed, with the Fox in the Fable, who had loſt his Tail, adviſe the others to cut their Tails off,
+<note place="margin">'Tis a piece of wiſdom not to re<g ref="char:EOLhyphen"/>ject this Propoſal without ſolid Reaſons. Oppoſing this, was an Argument it was not under<g ref="char:EOLhyphen"/>ſtood.</note> becauſe they were too cumberſome: But I do not in the leaſt doubt the Scotch Nation will <hi>be ſo wiſe that, as they will not Receive, ſo they will not Reject this Project, without ſolid Reaſons.</hi> And becauſe the Gentleman, who hath ſent <hi>theſe Obſervations, hath entred upon a Buſineſs he doth not at all underſtand,</hi> I think it highly requiſite he be undeceiv'd; and therefore what I have ſaid is enough by way of Preli<g ref="char:EOLhyphen"/>minary. I ſhall proceed now to make my Remarks upon his Obſervations.</p>
+            <p>In his Firſt, Third, Sixth and Seventh Obſervations, which are all of one Piece, and therefore I ſhall anſwer them together. The Gentleman ſaith,</p>
+            <p>That Money being the common Meaſure of Commerce,
+<note place="margin">The Gentle<g ref="char:EOLhyphen"/>man's Obje<g ref="char:EOLhyphen"/>ction.</note> all Nations are ſcrupulous in introducing new Species, or Value of Coyn, and no Nation have bettered their Trade, by making conſiderable Alteration in their Coyn; it being the Prudence of a Kingdom to preſerve ſuch a Standard of their Coyn, as does in ſome meaſure agree with that of their Neighbour Nations, which this Copper Coyn does not; And whatſoever leſſens the Credit of Coyn, does proportionably leſſen and weaken the Credit of Trade, and conſequently muſt tend to the loſs and damage of the Nation.</p>
+            <p>The Doctor in the Fourth Conſideration of his Printed Paper tells you, <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label>
+               <note place="margin">Credit is here allowed by Mr. <hi>J.</hi> B. to anſwer Mo<g ref="char:EOLhyphen"/>ney. He prefers Land Credit to the Dutch, and ac<g ref="char:EOLhyphen"/>knowledges it may be an Inſtru<g ref="char:EOLhyphen"/>ment for greater Trade h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Dutch. Credit ſerve, for Money.</note> That <hi>the greateſt Tradings in the World are carried on not ſo much by a Species of Money, of Stock and Caſh, as by a great Credit;</hi> and he inſtances the United Provinces, where Credit is the chief Inſtrument of their Commerce; and that their Credit is raiſed more upon an Opinion or Reputation, than upon a real Fund; and thereupon the Doctor in the Fifth Conſideration propoſes an Evident and Firm Security upon Land, as a <hi>more Subſtantial Fund of Credit,</hi> for the carrying on and <hi>eſtabliſhing as great or greater Trade in the Kingdom of Scotland;</hi> And this New Species of Credit the Gentleman terms a New Species of Coyn, and frames his Arguments and Obſervations thereupon; Whereas theſe Talleys are no more a Species of Money than Bankers Bills, or the Bank-Money of <hi>Amſterdam.</hi> As for Example: The States of <hi>Holland,</hi> who are a wiſe and cunning People, to ſupply the Exigence of the State, <hi>and want of Money for Commerce,</hi>
+               <pb facs="tcp:31243:2" rendition="simple:additions"/>did Erect a Bank of ſeveral Millions of Money, which is at this time no more than an Imaginary Cre<g ref="char:EOLhyphen"/>dit,
+<note place="margin">Mr. B. finds no fault with the largeneſs of the ſum, tho for <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> a poor King<g ref="char:EOLhyphen"/>dom, deſtitute of Trade.</note> eſtabliſhed upon little or no other Fund but the Publick Faith. The intended Project for <hi>Scotland,</hi> (for the ſame Reaſons, eſpecially the latter) is to coyn <hi>as many Millions of Money</hi> upon the Publick Faith of the Kingdom, and a ſolid and permanent Fund of Land, over and above. The Bank at <hi>Am<g ref="char:EOLhyphen"/>ſterdam</hi> makes uſe of Paper to transfer and make paſſable the Credit thereof from one to another. The intended Bank in <hi>Scotland</hi> propoſes to make uſe of ſome Metal, as more durable, to transfer their Cre<g ref="char:EOLhyphen"/>dit from one to the other. Now the Gentleman might with as much Candor and Reaſon have argued thus:
+<note place="margin">Proof of the goodneſs of Cre<g ref="char:EOLhyphen"/>dit, as to its ſer<g ref="char:EOLhyphen"/>ving the Uſes of, Money. Mr. <hi>B's</hi> indigna<g ref="char:EOLhyphen"/>tion at the Argu<g ref="char:EOLhyphen"/>ment, and further proof of the be<g ref="char:EOLhyphen"/>nefit of Credit.</note> 
+               <hi>A piece of Paper is not of equal value with one hundred, or one thouſand Pounds Sterling Money,</hi> Ergo <hi>the Dutch introducing a New Species of Coyn,</hi> viz. <hi>their Paper-Money, which bears no Proportion to the Stan<g ref="char:EOLhyphen"/>dard of the Coyn of other Kingdoms, muſt conſequently leſſen their Trade,</hi> and tend to the loſs and damage of their State.</p>
+            <p>Now <hi>what a parcel of Stuff is this? And yet the Parallel is as plain as it is Day at Noon;</hi> and it is as vi<g ref="char:EOLhyphen"/>ſible to all the World that by this their new Species of Credit (or Paper Money you may call it, if you pleaſe) together with their Induſtry, <hi>they are grown to be as great Traders, and as Opulent a People as any in the VVorld.</hi>
+            </p>
+            <p>Yes, <label type="milestone">
+                  <seg type="milestoneunit">O j ct. </seg>8</label> ſaith our Obſervator; but (Objection 8.) ſaith he, Your inference of the Uſefulneſs of the intended Copper Coyn, from the Parallel between it and the Bank of <hi>Amſterdam,</hi> and Goldſmiths Notes, and Wooden Tallyes, is a meer Fallacy: For theſe have a true and ſolid Foundation of Credit; Whereas the Credit on Copper Tallyes is unuſual and imaginary, and is to depend upon a Statute which may prove impracticable, and deſtructive to the Commerce of the Kingdom at Home and Abroad.</p>
+            <p>Had one of our Nation ſaid that the Lands of <hi>Scotland,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label>
+               <note place="margin">L<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> he believes the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> what is here done by Law, is equal to an A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of Par<g ref="char:EOLhyphen"/>liament in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> eſpecially where Credit is not impoſed, as was intended by the Scotch Act; but to be free as Goldſmith Notes and Bank-Bills.</note> ſettled for the aforeſaid Uſes by Act of Parliament, as a Fund for a Bank of Credit, are imaginary; I believe the Gentleman, if he hath any value for the Honour and Reputation of his Countrey, would have highly reſented it: But let the Gentleman take what Freedom he pleaſes with his Countrey, I am of opinion, <hi>That the Lands of Scot<g ref="char:EOLhyphen"/>land, ſettled by Act of Parliament for a Fund of Credit, are better, and a far more ſubſtantial Fund, than the bare Promiſe or Publick Faith of any Kingdom or State, without any real Fund to anſwer it.</hi> And as to the Bankers Bills and Timber-Tallyes, the ſhutting up the Exchequer in <hi>England,</hi> and the failure of ſo many Bankers, are too freſh in our Memories, for us to believe that they are a better and more ſubſtantial Fund than the Land in <hi>Scotland,</hi> ſettled by Act of Parliament.</p>
+            <p>As to the Second Obſervation, That plenty of Money and Riches is the genuine Effect and Product of Trade; <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label>
+               <note place="margin">The Value of Credit.</note> this we readily grant: But by the Gentlemans Favour, <hi>Credit is the</hi> Cauſa ſine qua non; <hi>No Nation was ever known to grow rich by Trade, where the Current or Intercourſe by Credit is ſtopt;</hi> and that Credit, which is the <hi>Primum Movens,</hi> or chief Engine of Trade, can ruine it, I confeſs to me is a Pa<g ref="char:EOLhyphen"/>radox. But the Gentleman ſaith further, That theſe Tallyes are Copper, and of a fictitious Value, to be decreed only from a new Statute. I am afraid the Legiſlators of <hi>Scotland</hi> have diſobliged this Gentleman: I thought only an Act of Parliament had been all that a reaſonable Man can deſire, in order to confirm his Title; and for my part, I ſhall never ſeek after a better Title to any Eſtate I have, if I have only an Act of Parliament to confirm the ſame to me and mine.</p>
+            <p>As to the Fourth and Fifth Obſervations, <label type="milestone">
+                  <seg type="milestoneunit">Obj ct. </seg>4, 5.</label> That the Nation truſts the Projector, who is Debitor to the Nation for the Statutory Coyn, or the value of the Money, as he ſhall be authorized to Coyn, or ſtrike into Copper Tallyes; that the allowing the Advantage intended to the Sellers of Land, is a ſquandering the Publick Credit of the Nation, for the gratifying particular Perſons, and will redound to the hurt and prejudice of the Nation in general.</p>
+            <p>The Doctor in his Printed Paper Propoſes, <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label>
+               <note place="margin">Mr. <hi>S.</hi> believes it not be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow the Beſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the King<g ref="char:EOLhyphen"/>dom to be Tru<g ref="char:EOLhyphen"/>ſtees. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o that 'tis no indecent pre<g ref="char:EOLhyphen"/>ſumption in the Dr. to ſubmit his Office to <hi>Viſitati<g ref="char:EOLhyphen"/>on</hi> of ſuch as are Truſted for <hi>State, Law,</hi> and <hi>Equity.</hi> M. B. juſtifies the Pro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ect againſt all Objections. Mr. B's further good opinion of my Deſign.</note> That Truſtees ſhould be appointed by Parliament, who alone were to have Power to Authorize the Covnage, and order the Diſtribution of them; and there<g ref="char:EOLhyphen"/>fore it is plain <hi>there is no Truſt repoſed in the Doctor, but in the Truſtees, who are propoſed to be the moſt conſiderable Perſons in the Kingdom,</hi> to be appointed by Parliament. And as to the Advantage <hi>the Sellers of Land may reap by this Project, this Gentleman needs not envy them,</hi> ſince he and as many of the Nation as have Land, may reap the like Advantage, if they ſettle their Land in the ſaid Fund. But ſince the Objector doth not think the Lands of <hi>Scotland</hi> any more than an Imaginary Security, being ſettled on<g ref="char:EOLhyphen"/>ly by Act of Parliament, I muſt <hi>deſire his Pardon, if I do not believe that this Project will be Ruinous, Dan<g ref="char:EOLhyphen"/>gerous, Deſtructive Loſs, Damage, of Ill Conſequence to the Nation</hi> (as he is pleas'd to repreſent it through<g ref="char:EOLhyphen"/>out his Paper) only upon his <hi>ipſe dixit, when the contrary is ſo palpably viſible.</hi>
+            </p>
+            <p>Sir, I doubt I have been too prolix; This I have ſaid, being what at preſent occurs, for I have not time to ſpend upon thinking of <hi>this your Deſign, as it merits:</hi> As is the Scotch Nation, ſo conſequently the thing will be Foreign to me; only if I may be admitted to fling my Mite into their Joynt Stock, if it ſucceeds,
+<note place="margin">This were to be wiſhed.</note> I ſhall be <hi>not only Induſtrious, but faithful to the Intereſt in which I embarque;</hi> and my de<g ref="char:EOLhyphen"/>ſire after the ſettling this in <hi>Scotland</hi> is the greater,
+<note place="margin">The Deſign is ſo <hi>good, that it wants not Mr.</hi> B's <hi>good With<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s for it<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </note> becauſe I flatter my ſelf, <hi>it will conſequently introduce the ſame in England,</hi> which will render it the moſt flouriſhing Kingdom in the Univerſe. I ſhall only add, That I am,</p>
+            <closer>
+               <salute>SIR, <hi>To my Honoured Friend Dr.</hi> Chamberlen: <hi>at his Houſe in</hi> Eſſex-Street, <hi>preſent.</hi>
+               </salute>
+               <signed>Your Real Friend and Humble Servant, <hi>JOHN BRISCOE.</hi>
+               </signed>
+            </closer>
+            <argument>
+               <p>As a ſtronger Confirmation of the good Opinion Mr. <hi>B.</hi> had of the Doctors 100 Years Propoſal, he Subſcribed 200 <hi>l. per Annum</hi> to it.</p>
+            </argument>
+         </div>
+         <div type="postscript">
+            <p>
+               <hi>AT Numb<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in the New Buildings in</hi> Lincolns Inn, <hi>Every</hi> Monday, Wedneſday, <hi>and</hi> Friday <hi>after Six in the Evening, Attendance is given, and will be continued, to remove every Doubt or Objection offered by any againſt Dr.</hi> Chamberlen<hi>'s Office of Land-Credit. It is therefore preſumed no Perſons will make Ob<g ref="char:EOLhyphen"/>jections in other Places, where none are preſent to Anſwer them: Or at leaſt that no ingenious Perſon will eſteem either the Perſon making, or the Objection ſo made. Valour is more valuable in the Face, than in the Abſence of an Enemy.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>T. Soyle</hi> in <hi>White H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt-Court</hi> in <hi>Grace-Church Street,</hi> 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
